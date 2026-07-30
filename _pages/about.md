@@ -7,12 +7,8 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+  image_circular: true # crops the image to make it circular
+    
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
@@ -27,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Baolan (宝岚) is a Member of Technical Staff at Thinking Machines Lab, working on language model architectures. 
-He earned his master degree from Shanghaitech University, where he was advised by Prof. Huawang Li.
+Baolan (宝岚) is a Member of Technical Staff at Alibaba, working on language model. 
+He earned his master degree from Shanghaitech University, 
+where he was advised by Prof. Huawang Li.
 
 <!-- Link to your favorite [subreddit](https://www.reddit.com). -->
-
 
 <!-- Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
 
