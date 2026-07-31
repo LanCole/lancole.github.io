@@ -27,29 +27,5 @@ latest_posts:
 
 ---
  <strong>Baolan (宝岚)</strong>  is a Member of Technical Staff at Alibaba, working on language model. 
-He earned his master degree from Shanghaitech University, 
-where he was advised by Prof. Huawang Li.
+ Previously, He obtained my master’s degree in Computer Science from ShanghaiTech University & University of Chinese Academy of Sciences, where he was advised by Prof. Huawang Li.
 
-<div class="resource-grid">
-  <a class="resource-card resource-card-github" href="https://github.com/fla-org/flash-linear-attention">
-    <i class="fa-brands fa-github fa-fw"></i>
-    <span>
-      <strong>Flash Linear Attention</strong>
-      <small>efficient attention implementations in Triton</small>
-    </span>
-  </a>
-  <a class="resource-card resource-card-discord" href="https://discord.gg/vDaJTmKNcS">
-    <i class="fa-brands fa-discord fa-fw"></i>
-    <span>
-      <strong>FLA Discord</strong>
-      <small>community for Flash Linear Attention</small>
-    </span>
-  </a>
-  <a class="resource-card resource-card-asap" href="https://asap-seminar.github.io/">
-    <i class="fa-brands fa-youtube fa-fw"></i>
-    <span>
-      <strong>ASAP Seminar</strong>
-      <small>Advances in Sequence Modeling from Algorithmic Perspectives</small>
-    </span>
-  </a>
-</div>
